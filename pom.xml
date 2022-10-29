@@ -5,7 +5,7 @@
 
     <groupId>com.corp</groupId>
     <artifactId>maven</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <modules>
         <module>database</module>
         <module>service</module>
@@ -19,7 +19,7 @@
         <connection>scm:git:git@github.com:fdkvandr/maven.git</connection>
         <developerConnection>scm:git:git@github.com:fdkvandr/maven.git</developerConnection>
         <url>https://github.com/fdkvandr/maven</url>
-      <tag>maven-1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <properties>
