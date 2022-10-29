@@ -16,6 +16,12 @@
 
     <name>maven</name>
 
+    <scm>
+        <connection>scm:git:git@github.com:fdkvandr/maven.git</connection>
+        <developerConnection>scm:git:git@github.com:fdkvandr/maven.git</developerConnection>
+        <url>https://github.com/fdkvandr/maven</url>
+    </scm>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>19</maven.compiler.source>
